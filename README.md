@@ -27,6 +27,9 @@ HDInsight on Windows 7 (64-bit required):
 Installing HDInsight Emulator on Your Local Machine
 http://www.youtube.com/watch?v=XAZNIkdrw3k
 
+C# MapReduce with Visual Studio and HDInsight
+http://www.youtube.com/watch?v=msdiW5I56DM
+
 Hortonworks Sandbox (Windows and Mac OS X):
 http://hortonworks.com/products/hortonworks-sandbox/
 
