@@ -16,6 +16,7 @@ The hacking session will follow.
 The goal will be to install a pseudo-distributed VM for Hadoop on your BYOL (bring-your-own-laptop).
 
 HOW TO SETUP HADOOP ON MAC OS X 10.9 MAVERICKS
+
 http://shayanmasood.com/blog/how-to-setup-hadoop-on-mac-os-x-10-9-mavericks/
 
 Cloudera QuickStart VM:
