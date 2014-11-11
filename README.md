@@ -1,5 +1,7 @@
-kickoff
+kickoff - November 13, 2014 at Society of Work - 13th Floor FTB Building downtown Chattanooga
 =======
+
+http://meetup.com/CHadoop
 
 The session will be divided into a presentation and a hacking session.
 
@@ -35,4 +37,7 @@ http://hortonworks.com/products/hortonworks-sandbox/
 
 Hadoop on DigitalOcean:
 https://www.digitalocean.com/community/tutorials/how-to-install-hadoop-on-ubuntu-13-10
+
+Hadoop on Docker:
+https://github.com/sequenceiq/hadoop-docker
 
