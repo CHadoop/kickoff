@@ -22,7 +22,7 @@ http://shayanmasood.com/blog/how-to-setup-hadoop-on-mac-os-x-10-9-mavericks/
 Cloudera QuickStart VM:
 http://www.cloudera.com/content/cloudera/en/documentation/DemoVMs/Cloudera-QuickStart-VM/cloudera_quickstart_vm.html
 
-HDInsight on Windows 7:
+HDInsight on Windows 7 (64-bit required):
 
 Installing HDInsight Emulator on Your Local Machine
 http://www.youtube.com/watch?v=XAZNIkdrw3k
