@@ -41,3 +41,6 @@ https://www.digitalocean.com/community/tutorials/how-to-install-hadoop-on-ubuntu
 Hadoop on Docker:
 https://github.com/sequenceiq/hadoop-docker
 
+Hadoop on InfoChimps:
+http://www.infochimps.com/infochimps-cloud/cloud-services/cloud-hadoop/
+
