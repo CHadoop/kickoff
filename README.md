@@ -44,3 +44,5 @@ https://github.com/sequenceiq/hadoop-docker
 Hadoop on InfoChimps:
 http://www.infochimps.com/infochimps-cloud/cloud-services/cloud-hadoop/
 
+Big Data on Amazon EC2 (Amazon Elastic Compute Cloud):
+http://aws.amazon.com/ec2/
